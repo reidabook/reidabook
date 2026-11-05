@@ -31,5 +31,3 @@ Garmin Connect.
 - Start from the problem and the evidence, not the feature.
 - Make the decision visible: a score anyone can challenge beats a ranking nobody can explain.
 - Ship small, measure, and close the loop with a retro.
-
-📫 reid.francis91@gmail.com
